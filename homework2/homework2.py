@@ -6,6 +6,8 @@
 # Questions (Answer these in the homework2.py file as comments):
 
 # 1) What’s the difference between Git, GitHub, and Git Bash?
+#TEST
+
 
 # 2) What’s the difference between the terminal and the command line?
 
